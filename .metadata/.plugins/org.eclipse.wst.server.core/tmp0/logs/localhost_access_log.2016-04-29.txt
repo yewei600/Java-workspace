@@ -1,0 +1,4 @@
+127.0.0.1 - - [29/Apr/2016:10:52:41 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [29/Apr/2016:10:52:42 -0400] "GET /EditorServlet/Verify HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [29/Apr/2016:10:58:00 -0400] "GET /EditorServlet/Verify HTTP/1.1" 200 25
+127.0.0.1 - - [29/Apr/2016:11:39:03 -0400] "POST /EditorServlet/Verify HTTP/1.1" 500 25

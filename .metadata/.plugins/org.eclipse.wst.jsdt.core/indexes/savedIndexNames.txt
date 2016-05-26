@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\ZHOUXU WEI\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1788097599.index
+2744324992.index
+3260368371.index
+1732917968.index
+2263841337.index
+340960004.index
+2044768556.index

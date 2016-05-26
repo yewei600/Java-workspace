@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;KeyValueService.java&apos; to &apos;ECE454A1/src/a1&apos;&#x0D;&#x0A;- Original project: &apos;ECE454A1&apos;&#x0D;&#x0A;- Destination element: &apos;ECE454A1/src/a1&apos;&#x0D;&#x0A;- Original element: &apos;KeyValueService.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;a1" element1="gen-java/a1/KeyValueService.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1463771923413" units="0" version="1.0"/>
+</session>
